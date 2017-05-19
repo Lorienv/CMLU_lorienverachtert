@@ -1,0 +1,6 @@
+<author lang="en" gender="male" age_group="30s">	<conversations count="1">		<conversation id="775adf058d70982c1bac92afebddfe6f">			Annotations: There are many usages of Annotations, as well as incorrect uses. They are also scoped differently, from compiler to runtime, depending on the purpose. In principle it is about providing additional information about a TYPE, PARAMETER, FIELD or METHOD. 
+&lt;br /&gt;;&lt;br /&gt;;You find typical uses in the JPA specs, the various dependency injection frameworks, JAX-WS/JAX-RS specs and many others
+&lt;br /&gt;;&lt;br /&gt;;The annotations definitely reduce number of lines of code but there are few drawbacks: 
+&lt;br /&gt;;1. Code will very difficult to understand later. 
+&lt;br /&gt;;2. Debugging code becomes difficult. 
+&lt;br /&gt;;3.Annotations are harder to use with third-party libraries- this violates POJO programming.		</conversation>	</conversations></author>

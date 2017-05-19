@@ -1,0 +1,17 @@
+<author lang="en" gender="male" age_group="30s">	<conversations count="1">		<conversation id="adc3a39e49603c32196d11d43daa52e7">			&lt;div class="fontRenderer"&gt;;&lt;div id="originalText_c895b8e3b252bc75613693455d593837"&gt;;&lt;span class="textAlign textAlignCenter"&gt;;Maybe---------it is true that  we
+&lt;br /&gt;;                         -------- Don't, know what
+&lt;br /&gt;;                               We have----
+&lt;br /&gt;;                             Until we lose it
+&lt;br /&gt;;                         But it also  true that we
+&lt;br /&gt;;                      Don't know what we 
+&lt;br /&gt;;                         Have been missing
+&lt;br /&gt;;                           Until-------it
+&lt;br /&gt;;                            Arrives&lt;/span&gt;;&lt;/div&gt;;
+		&lt;script type="text/javascript"&gt;;
+			var filenames = ["/s/j/class.fontrenderer.js"];
+
+			ComCore.BootLoader.loadJavascriptFiles(filenames, false, function() 
+			{
+				new ComCore.FontRenderer("_d2e0df9ab9a44f20b101a67f45dc482c9145b0b289c55040fa33fc9367905cc4", "%5Bcenter%5DMaybe---------it+is+true+that++we%0D%0A+++++++++++++++++++++++++--------+Don%27t%2C+know+what%0D%0A+++++++++++++++++++++++++++++++We+have----%0D%0A+++++++++++++++++++++++++++++Until+we+lose+it%0D%0A+++++++++++++++++++++++++But+it+also++true+that+we%0D%0A++++++++++++++++++++++Don%27t+know+what+we+%0D%0A+++++++++++++++++++++++++Have+been+missing%0D%0A+++++++++++++++++++++++++++Until-------it%0D%0A++++++++++++++++++++++++++++Arrives%5B%2Fcenter%5D", "c895b8e3b252bc75613693455d593837");
+			});
+		&lt;/script&gt;;&lt;/div&gt;;		</conversation>	</conversations></author>

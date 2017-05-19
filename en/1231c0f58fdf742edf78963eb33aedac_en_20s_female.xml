@@ -1,0 +1,23 @@
+<author lang="en" gender="female" age_group="20s">	<conversations count="1">		<conversation id="bf9ae8a04719883fa51fefb3d1031349">			&lt;div class="fontRenderer"&gt;;&lt;div id="originalText_ea86f6caa6ebac25218360eb53f4b5ae"&gt;;Sometimes,Always feel sad life.
+&lt;br /&gt;;In fact, happiness is around me.
+&lt;br /&gt;;A smile,Wake up in the morning,
+&lt;br /&gt;;A hug,When  we meet,
+&lt;br /&gt;;Can let me moving and happiness!
+&lt;br /&gt;;&lt;br /&gt;;I like to waiting for the last bus,
+&lt;br /&gt;;Because 
+&lt;br /&gt;;can meet the best warm and sweet things
+&lt;br /&gt;;on the last bus,
+&lt;br /&gt;;A row by row sit lovers,
+&lt;br /&gt;;A moving heart of music,
+&lt;br /&gt;;An old rivals hand in hand,
+&lt;br /&gt;;And the window light like the stars...
+&lt;br /&gt;;&lt;br /&gt;;All these, can let me recall....
+&lt;br /&gt;;Happiness!&lt;/div&gt;;
+		&lt;script type="text/javascript"&gt;;
+			var filenames = ["/s/j/class.fontrenderer.js"];
+
+			ComCore.BootLoader.loadJavascriptFiles(filenames, false, function() 
+			{
+				new ComCore.FontRenderer("_c9e98454f23b741f6428225d0b4c0a1d2666ff36fd48b8d6408d590eafef56eb", "Sometimes%2CAlways+feel+sad+life.%0D%0AIn+fact%2C+happiness+is+around+me.%0D%0AA+smile%2CWake+up+in+the+morning%2C%0D%0AA+hug%2CWhen++we+meet%2C%0D%0ACan+let+me+moving+and+happiness%21%0D%0A+%0D%0AI+like+to+waiting+for+the+last+bus%2C%0D%0ABecause+%0D%0Acan+meet+the+best+warm+and+sweet+things%0D%0Aon+the+last+bus%2C%0D%0AA+row+by+row+sit+lovers%2C%0D%0AA+moving+heart+of+music%2C%0D%0AAn+old+rivals+hand+in+hand%2C%0D%0AAnd+the+window+light+like+the+stars...%0D%0A+%0D%0AAll+these%2C+can+let+me+recall....%0D%0AHappiness%21", "ea86f6caa6ebac25218360eb53f4b5ae");
+			});
+		&lt;/script&gt;;&lt;/div&gt;;		</conversation>	</conversations></author>

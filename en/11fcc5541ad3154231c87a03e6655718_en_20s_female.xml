@@ -1,0 +1,23 @@
+<author lang="en" gender="female" age_group="20s">	<conversations count="1">		<conversation id="7b55b2eee6ff450a9bb63c5ca57a57f8">			&lt;div class="fontRenderer"&gt;;&lt;div id="originalText_36aef4f6e8f69da5e56e93dd94ecf8fb"&gt;;5 Lovable 
+&lt;br /&gt;;words- &quot;I 
+&lt;br /&gt;;am alone 
+&lt;br /&gt;;without u&quot;, 
+&lt;br /&gt;;&lt;br /&gt;;4 pleasant 
+&lt;br /&gt;;words- &quot;I 
+&lt;br /&gt;;care 4 u&quot;, 
+&lt;br /&gt;;3 sweet 
+&lt;br /&gt;;&lt;br /&gt;;words- &quot;i 
+&lt;br /&gt;;like u&quot;, 
+&lt;br /&gt;;&lt;br /&gt;;2 special 
+&lt;br /&gt;;words 
+&lt;br /&gt;;&quot;Miss U&quot;, 
+&lt;br /&gt;;&lt;br /&gt;;1 important 
+&lt;br /&gt;;word- &quot;U&lt;/div&gt;;
+		&lt;script type="text/javascript"&gt;;
+			var filenames = ["/s/j/class.fontrenderer.js"];
+
+			ComCore.BootLoader.loadJavascriptFiles(filenames, false, function() 
+			{
+				new ComCore.FontRenderer("_49cf3b40c2b72d587c1047341baf177775b688509fccb907703ad856094eb6f8", "5+Lovable+%0D%0Awords-+%22I+%0D%0Aam+alone+%0D%0Awithout+u%22%2C+%0D%0A%0D%0A4+pleasant+%0D%0Awords-+%22I+%0D%0Acare+4+u%22%2C+%0D%0A3+sweet+%0D%0A%0D%0Awords-+%22i+%0D%0Alike+u%22%2C+%0D%0A%0D%0A2+special+%0D%0Awords+%0D%0A%22Miss+U%22%2C+%0D%0A%0D%0A1+important+%0D%0Aword-+%22U", "36aef4f6e8f69da5e56e93dd94ecf8fb");
+			});
+		&lt;/script&gt;;&lt;/div&gt;;		</conversation>	</conversations></author>

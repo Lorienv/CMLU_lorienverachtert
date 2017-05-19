@@ -1,0 +1,9 @@
+<author lang="en" gender="female" age_group="20s">	<conversations count="1">		<conversation id="4089e5cb5a300b9f6b80c54df9859766">			&lt;div class="fontRenderer"&gt;;&lt;div id="originalText_9103260e3af4b287d1512dda88f22fb9"&gt;;if u have a bad day at work. be thankful. appreciate that u have a job and some people dont. when u think your would is terrible and you want to give up, think of the people who have been told they have only a certain amount of time to live. they dont give up.. be thankful to God.&lt;/div&gt;;
+		&lt;script type="text/javascript"&gt;;
+			var filenames = ["/s/j/class.fontrenderer.js"];
+
+			ComCore.BootLoader.loadJavascriptFiles(filenames, false, function() 
+			{
+				new ComCore.FontRenderer("_acab80dea3ece2c7b3e4ec3db21a367a62703311c41a3cb927afc085c6d7c9bc", "if+u+have+a+bad+day+at+work.+be+thankful.+appreciate+that+u+have+a+job+and+some+people+dont.+when+u+think+your+would+is+terrible+and+you+want+to+give+up%2C+think+of+the+people+who+have+been+told+they+have+only+a+certain+amount+of+time+to+live.+they+dont+give+up..+be+thankful+to+God.", "9103260e3af4b287d1512dda88f22fb9");
+			});
+		&lt;/script&gt;;&lt;/div&gt;;		</conversation>	</conversations></author>

@@ -1,0 +1,10 @@
+<author lang="en" gender="female" age_group="30s">	<conversations count="1">		<conversation id="393b02a7bb985e3f1047c7e7bf4d1b43">			&lt;div class="fontRenderer"&gt;;&lt;div id="originalText_9b57b704c019d8b129c4653b9ad931da"&gt;;&lt;span class="textAlign textAlignCenter"&gt;;&lt;/span&gt;;Hi all , Happy Easter !!
+&lt;br /&gt;;&lt;br /&gt;;I'm new to site and got feeling its gonna take time to get used to it hear (;p&lt;img class="smiley" src="http://www.pan.net/smilies/wink.gif" alt=":)" /&gt;; xx &lt;img class="smiley" src="http://www.pan.net/smilies/love.gif" alt=":)" /&gt;;&lt;/div&gt;;
+		&lt;script type="text/javascript"&gt;;
+			var filenames = ["/s/j/class.fontrenderer.js"];
+
+			ComCore.BootLoader.loadJavascriptFiles(filenames, false, function() 
+			{
+				new ComCore.FontRenderer("_67212cb3aa279f4950a8ba699c10766e9b026bcd1f8c97d18eb6a93cd7f82f8b", "%5Bcenter%5D%5B%2Fcenter%5DHi+all+%2C+Happy+Easter+%21%21%0D%0A%0D%0AI%27m+new+to+site+and+got+feeling+its+gonna+take+time+to+get+used+to+it+hear+%28%3Bp%3Cimg+class%3D%22smiley%22+src%3D%22http%3A%2F%2Fwww.pan.net%2Fv6.00%2F4209%2F%2Fs%2Fi%2Fsmilies%2Fwink.gif%22+alt%3D%22%3A%29%22+%2F%3E+xx+%3Cimg+class%3D%22smiley%22+src%3D%22http%3A%2F%2Fwww.pan.net%2Fv6.00%2F4209%2F%2Fs%2Fi%2Fsmilies%2Flove.gif%22+alt%3D%22%3A%29%22+%2F%3E", "9b57b704c019d8b129c4653b9ad931da");
+			});
+		&lt;/script&gt;;&lt;/div&gt;;		</conversation>	</conversations></author>

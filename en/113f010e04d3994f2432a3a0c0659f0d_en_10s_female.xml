@@ -1,0 +1,12 @@
+<author lang="en" gender="female" age_group="10s">	<conversations count="1">		<conversation id="2681ba8d334e80cfb8a7eccac6915473">			&lt;div class="fontRenderer"&gt;;&lt;div id="originalText_dc6f4fe41f33f2eefa47699ad87d8d11"&gt;;Hi i am a new member in this website.
+&lt;br /&gt;;My name is Sarah. 
+&lt;br /&gt;;I am 13 years old.
+&lt;br /&gt;;I love to chat,if you want you can be from my best friends or from my friends.And if you want you can join my group.You are welcome at any time.&lt;/div&gt;;
+		&lt;script type="text/javascript"&gt;;
+			var filenames = ["/s/j/class.fontrenderer.js"];
+
+			ComCore.BootLoader.loadJavascriptFiles(filenames, false, function() 
+			{
+				new ComCore.FontRenderer("_87d3584c7d5e1f46986e22752564da4b73ba0572f65e1308a3db58d9c9838233", "Hi+i+am+a+new+member+in+this+website.%0D%0AMy+name+is+Sarah.+%0D%0AI+am+13+years+old.%0D%0AI+love+to+chat%2Cif+you+want+you+can+be+from+my+best+friends+or+from+my+friends.And+if+you+want+you+can+join+my+group.You+are+welcome+at+any+time.", "dc6f4fe41f33f2eefa47699ad87d8d11");
+			});
+		&lt;/script&gt;;&lt;/div&gt;;		</conversation>	</conversations></author>

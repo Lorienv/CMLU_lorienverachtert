@@ -1,0 +1,9 @@
+<author lang="en" gender="male" age_group="20s">	<conversations count="1">		<conversation id="f2b5b8b761bab616d8eebe86c979c038">			&lt;div class="fontRenderer"&gt;;&lt;div id="originalText_f2797082db7667f046b3ae148172d0f0"&gt;;One feels a new man after a meal.&lt;/div&gt;;
+		&lt;script type="text/javascript"&gt;;
+			var filenames = ["/s/j/class.fontrenderer.js"];
+
+			ComCore.BootLoader.loadJavascriptFiles(filenames, false, function() 
+			{
+				new ComCore.FontRenderer("_c9e98454f23b741f6428225d0b4c0a1d2666ff36fd48b8d6408d590eafef56eb", "One+feels+a+new+man+after+a+meal.", "f2797082db7667f046b3ae148172d0f0");
+			});
+		&lt;/script&gt;;&lt;/div&gt;;		</conversation>	</conversations></author>
